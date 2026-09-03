@@ -1,0 +1,982 @@
+Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Status,Led,Pts,Money,race_id,season,race_number,Unnamed: 14,site,track_id,date,race_url
+1.0,1,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,200,running,40,58.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+2.0,10,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,200,running,0,44.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+3.0,13,23.0,Bubba Wallace,Columbia (23XI Racing),Toyota,200,running,9,40.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+4.0,7,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,200,running,4,44.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+5.0,2,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,200,running,21,45.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+6.0,11,7.0,Daniel Suarez,Nations Guard (Spire Motorsports),Chevrolet,200,running,10,40.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+7.0,18,22.0,Joey Logano,AutoTrader (Roger Penske),Ford,200,running,0,32.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+8.0,19,12.0,Ryan Blaney,MenardsRichmond Water Heaters (Roger Penske),Ford,200,running,0,29.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+9.0,14,17.0,Chris Buescher,Kroger / Oscar Mayer / The Rustik Oven (Jack Roush),Ford,200,running,0,31.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+10.0,5,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,200,running,0,27.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+11.0,31,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,200,running,0,26.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+12.0,15,41.0,Cole Custer,Air Lift (Gene Haas),Chevrolet,200,running,0,25.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+13.0,12,35.0,Riley Herbst,Monster Energy Zero Sugar (23XI Racing),Toyota,200,running,0,26.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+14.0,17,42.0,John H. Nemechek,Pye-Barker Fire & Safety (Legacy Motor Club),Toyota,200,running,0,23.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+15.0,37,21.0,Josh Berry,Motorcraft/Quick Lane (Wood Brothers),Ford,200,running,0,22.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+16.0,32,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,200,running,1,21.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+17.0,25,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,200,running,0,20.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+18.0,9,24.0,William Byron,Axalta Solar Boost (Rick Hendrick),Chevrolet,200,running,7,25.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+19.0,29,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,200,running,0,18.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+20.0,28,33.0,Austin Hill,Rebel Bourbon (Richard Childress),Chevrolet,200,running,0,0.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+21.0,36,44.0,J.J. Yeley,Fanatics Casino,Chevrolet,199,running,2,0.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+22.0,35,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,199,running,0,15.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+23.0,33,51.0,Cody Ware,Super.com (Rick Ware),Chevrolet,198,running,0,14.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+24.0,24,10.0,Ty Dillon,Patriot Mobile (Matthew Kaulig),Chevrolet,196,running,0,13.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+25.0,4,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,187,crash,6,21.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+26.0,20,71.0,Michael McDowell,Garner Trucking (Spire Motorsports),Chevrolet,158,crash,0,11.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+27.0,22,4.0,Noah Gragson,Ribbiot (Bob Jenkins),Ford,156,crash,0,10.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+28.0,27,60.0,Ryan Preece,BuildSubmarines.com (Jack Roush),Ford,155,crash,0,9.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+29.0,23,47.0,Ricky Stenhouse Jr,Pylon Aviation (HYAK Motorsports),Chevrolet,154,crash,0,8.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+30.0,30,97.0,Shane Van Gisbergen,Safety Culture (Trackhouse Racing),Chevrolet,154,crash,0,7.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+31.0,8,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,147,crash,0,11.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+32.0,6,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,147,crash,67,22.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+33.0,16,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,141,crash,0,10.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+34.0,26,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,89,crash,0,3.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+35.0,3,45.0,Tyler Reddick,Rockstar Energy Drink (23XI Racing),Toyota,83,crash,33,12.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+36.0,21,3.0,Austin Dillon,Dow Mobility Science (Richard Childress),Chevrolet,82,crash,0,1.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+37.0,34,88.0,Connor Zilisch,WeatherTech (Trackhouse Racing),Chevrolet,8,crash,0,1.0,,2026_15,2026,15,,Michigan,Michigan_International_Speedway,6/7/2026,https://www.racing-reference.info/race-results/2026_Firekeepers_Casino_400/W
+1.0,1,11.0,Denny Hamlin,Progressive Insurance (Joe Gibbs),Toyota,300,running,57,62.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+2.0,4,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,300,running,29,38.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+3.0,31,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,300,running,14,39.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+4.0,15,47.0,Ricky Stenhouse Jr,NOS Energy (HYAK Motorsports),Chevrolet,300,running,0,41.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+5.0,10,97.0,Shane Van Gisbergen,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,300,running,12,32.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+6.0,2,45.0,Tyler Reddick,Pinnacle (23XI Racing),Toyota,300,running,42,37.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+7.0,29,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,300,running,3,37.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+8.0,7,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,300,running,46,37.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+9.0,11,38.0,Zane Smith,Speedy Cash (Bob Jenkins),Ford,300,running,18,28.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+10.0,17,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,300,running,0,27.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+11.0,13,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,300,running,3,26.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+12.0,30,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,300,running,0,25.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+13.0,6,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,300,running,1,24.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+14.0,9,22.0,Joey Logano,Shell-Pennzoil (Roger Penske),Ford,300,running,1,23.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+15.0,14,71.0,Michael McDowell,Garner Trucking (Spire Motorsports),Chevrolet,300,running,0,27.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+16.0,26,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,299,running,0,21.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+17.0,23,35.0,Riley Herbst,Monster Energy (23XI Racing),Toyota,299,running,1,22.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+18.0,32,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,299,running,0,19.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+19.0,3,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,299,running,10,28.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+20.0,21,34.0,Todd Gilliland,Love's Travel Stops / Fleetguard Ford Mustang (Bob Jenkins),Ford,299,running,0,17.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+21.0,20,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,299,running,0,16.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+22.0,34,51.0,Cody Ware,Jacob Construction (Rick Ware),Chevrolet,299,running,0,15.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+23.0,5,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,299,running,56,23.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+24.0,27,42.0,John H. Nemechek,Pye-Barker Fire & Safety (Legacy Motor Club),Toyota,298,running,0,13.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+25.0,24,67.0,Corey Heim,Chief's (23XI Racing),Toyota,298,running,0,0.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+26.0,36,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,296,running,0,18.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+27.0,25,33.0,Austin Hill,BetMGM (Richard Childress),Chevrolet,293,running,0,0.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+28.0,37,66.0,Chad Finchum,Garrison Homes (Carl Long),Ford,289,running,0,0.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+29.0,22,17.0,Chris Buescher,Castrol (Jack Roush),Ford,286,crash,0,8.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+30.0,8,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,231,crash,0,15.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+31.0,33,21.0,Josh Berry,eero (Wood Brothers),Ford,214,crash,0,6.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+32.0,18,23.0,Bubba Wallace,Hardee's (23XI Racing),Toyota,203,crash,0,10.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+33.0,19,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,203,crash,0,13.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+34.0,12,6.0,Brad Keselowski,Trimble (Jack Roush),Ford,192,crash,0,4.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+35.0,16,16.0,A.J. Allmendinger,Spire Academy powered by VensureHR (Matthew Kaulig),Chevrolet,172,crash,7,12.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+36.0,28,60.0,Ryan Preece,Kroger / CELSIUS (Jack Roush),Ford,90,radiator,0,1.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+37.0,35,1.0,Ross Chastain,Busch Light Country (Trackhouse Racing),Chevrolet,81,crash,0,1.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+38.0,38,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,71,crash,0,1.0,,2026_14,2026,14,,Nashville,Nashville_Superspeedway,5/31/2026,https://www.racing-reference.info/race-results/2026_Cracker_Barrel_400/W
+1.0,14,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,373,running,17,55.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+2.0,17,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,373,running,44,50.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+3.0,11,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,373,running,75,60.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+4.0,1,45.0,Tyler Reddick,Mobil 1/O'Reilly Auto Parts (23XI Racing),Toyota,373,running,119,53.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+5.0,18,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,373,running,14,54.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+6.0,2,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,373,running,17,53.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+7.0,6,12.0,Ryan Blaney,BodyArmor Flash I.V. (Roger Penske),Ford,373,running,0,41.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+8.0,33,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,373,running,0,29.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+9.0,31,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,373,running,0,28.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+10.0,19,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,373,running,31,27.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+11.0,3,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,373,running,11,33.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+12.0,32,47.0,Ricky Stenhouse Jr,Three Finger Jack (HYAK Motorsports),Chevrolet,373,running,0,29.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+13.0,21,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,373,running,0,30.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+14.0,4,71.0,Michael McDowell,Modo Casino (Spire Motorsports),Chevrolet,373,running,3,23.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+15.0,26,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,373,running,0,25.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+16.0,22,41.0,Cole Custer,Sysco / Hickory Tavern (Gene Haas),Chevrolet,373,running,0,21.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+17.0,29,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,373,running,0,20.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+18.0,10,16.0,A.J. Allmendinger,Black's Tire (Matthew Kaulig),Chevrolet,373,running,0,19.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+19.0,39,67.0,Corey Heim,Fleetio (23XI Racing),Toyota,373,running,0,0.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+20.0,20,34.0,Todd Gilliland,Grillo's Pickles (Bob Jenkins),Ford,373,running,0,17.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+21.0,30,35.0,Riley Herbst,FRE Nicotine Pouches (23XI Racing),Toyota,372,running,0,16.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+22.0,24,23.0,Bubba Wallace,Columbia (23XI Racing),Toyota,372,running,0,15.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+23.0,23,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,372,running,4,14.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+24.0,28,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,372,running,0,13.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+25.0,35,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,372,running,0,12.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+26.0,15,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,372,running,0,11.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+27.0,13,33.0,Austin Hill,Richard Childress,Chevrolet,372,running,0,0.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+28.0,38,51.0,Cody Ware,Evel Knievel Museum / World Supercross (Rick Ware),Chevrolet,371,running,0,9.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+29.0,34,21.0,Josh Berry,eero (Wood Brothers),Ford,371,running,0,8.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+30.0,7,17.0,Chris Buescher,Body Guard (Jack Roush),Ford,367,running,0,10.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+31.0,37,78.0,Katherine Legge,e.l.f. Cosmetics (B.J. McLeod),Chevrolet,361,running,0,6.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+32.0,9,3.0,Austin Dillon,Bass Pro Shops/Winchester Patriotic (Richard Childress),Chevrolet,338,crash,0,5.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+33.0,12,60.0,Ryan Preece,Kroger / SToK (Jack Roush),Ford,328,crash,1,7.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+34.0,5,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,328,crash,34,27.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+35.0,27,1.0,Ross Chastain,Jockey x Folds of Honor (Trackhouse Racing),Chevrolet,317,crash,3,2.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+36.0,36,66.0,Timmy Hill,Pinnacle Mortgage Corp. (Carl Long),Ford,291,fire,0,0.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+37.0,16,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,89,crash,0,1.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+38.0,8,2.0,Austin Cindric,MenardsDuracell (Roger Penske),Ford,52,crash,0,1.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+39.0,25,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,52,crash,0,1.0,,2026_13,2026,13,,Charlotte,Charlotte_Motor_Speedway,5/24/2026,https://www.racing-reference.info/race-results/2026_Coca_Cola_600/W
+1.0,1,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,100,running,74,68.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+2.0,2,71.0,Michael McDowell,Go Bowling (Spire Motorsports),Chevrolet,100,running,5,36.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+3.0,10,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,100,running,17,42.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+4.0,9,19.0,Chase Briscoe,Mobil 1 (Joe Gibbs),Toyota,100,running,0,35.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+5.0,15,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,100,running,0,41.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+6.0,25,3.0,Austin Dillon,Bass Pro Shops/Winchester AA White Flyer (Richard Childress),Chevrolet,100,running,0,38.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+7.0,12,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,100,running,0,36.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+8.0,21,8.0,Kyle Busch,zone JalapeÃ±o Lime (Richard Childress),Chevrolet,100,running,0,35.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+9.0,3,2.0,Austin Cindric,Snap On (Roger Penske),Ford,100,running,0,39.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+10.0,17,42.0,John H. Nemechek,Pye-Barker Fire & Safety (Legacy Motor Club),Toyota,100,running,0,32.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+11.0,7,12.0,Ryan Blaney,Menards Libman (Roger Penske),Ford,100,running,0,34.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+12.0,14,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,100,running,0,30.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+13.0,16,7.0,Daniel Suarez,Cal Ripken Sr. Foundation (Spire Motorsports),Chevrolet,100,running,0,24.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+14.0,30,60.0,Ryan Preece,"Mohawk Northeast, Inc. (Jack Roush)",Ford,100,running,0,23.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+15.0,19,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,100,running,0,22.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+16.0,20,11.0,Denny Hamlin,Progressive Insurance (Joe Gibbs),Toyota,100,running,0,21.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+17.0,22,34.0,Todd Gilliland,FARM RICH (Bob Jenkins),Ford,100,running,0,20.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+18.0,33,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,100,running,0,19.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+19.0,24,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,100,running,0,18.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+20.0,5,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,100,running,0,21.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+21.0,8,20.0,Christopher Bell,Coofandy Menswear (Joe Gibbs),Toyota,100,running,0,20.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+22.0,35,4.0,Noah Gragson,Long John Silver's / Frank's RedHot (Bob Jenkins),Ford,100,running,0,15.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+23.0,23,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,100,running,0,14.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+24.0,27,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,100,running,0,13.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+25.0,28,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,100,running,0,12.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+26.0,32,35.0,Riley Herbst,Monster Energy Zero Sugar (23XI Racing),Toyota,100,running,0,13.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+27.0,4,1.0,Ross Chastain,Busch Light Apple (Trackhouse Racing),Chevrolet,100,running,4,20.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+28.0,11,77.0,Carson Hocevar,Spectrum (Spire Motorsports),Chevrolet,100,running,0,9.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+29.0,18,23.0,Bubba Wallace,Hardee's/Coca-Cola (23XI Racing),Toyota,100,running,0,9.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+30.0,26,6.0,Brad Keselowski,Modelo (Jack Roush),Ford,100,running,0,7.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+31.0,29,47.0,Ricky Stenhouse Jr,Ram Self Storage (HYAK Motorsports),Chevrolet,100,running,0,6.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+32.0,34,21.0,Josh Berry,DEX (Wood Brothers),Ford,100,running,0,5.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+33.0,31,10.0,Ty Dillon,Campers Inn RV (Matthew Kaulig),Chevrolet,99,running,0,4.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+34.0,37,66.0,Josh Bilicki,Southern Tier Security (Carl Long),Ford,99,running,0,0.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+35.0,38,78.0,Katherine Legge,e.l.f. (B.J. McLeod),Chevrolet,99,running,0,2.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+36.0,13,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,97,running,0,1.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+37.0,36,51.0,Cody Ware,Jacob Construction (Rick Ware),Chevrolet,90,crash,0,1.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+38.0,6,22.0,Joey Logano,Shell-Pennzoil (Roger Penske),Ford,85,running,0,10.0,,2026_12,2026,12,,Watkins Glen,Watkins_Glen_International,5/10/2026,https://www.racing-reference.info/race-results/2026_Go_Bowling_at_The_Glen/W
+1.0,14,9.0,Chase Elliott,Amazon Prime (Rick Hendrick),Chevrolet,267,running,87,69.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+2.0,4,11.0,Denny Hamlin,Progressive Insurance (Joe Gibbs),Toyota,267,running,21,43.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+3.0,9,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,267,running,0,35.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+4.0,8,45.0,Tyler Reddick,Rockstar Energy Drink (23XI Racing),Toyota,267,running,0,42.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+5.0,3,17.0,Chris Buescher,Fifth Third (Jack Roush),Ford,267,running,0,36.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+6.0,2,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,267,running,0,36.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+7.0,1,77.0,Carson Hocevar,Spectrum (Spire Motorsports),Chevrolet,267,running,40,41.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+8.0,15,24.0,William Byron,Valvoline Heavy Duty (Rick Hendrick),Chevrolet,267,running,0,31.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+9.0,37,23.0,Bubba Wallace,Chumba Casino (23XI Racing),Toyota,267,running,0,28.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+10.0,31,12.0,Ryan Blaney,Menards Knauf (Roger Penske),Ford,267,running,5,27.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+11.0,18,35.0,Riley Herbst,FRE Nicotine Pouches (23XI Racing),Toyota,267,running,1,29.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+12.0,21,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,267,running,13,35.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+13.0,25,6.0,Brad Keselowski,Body Guard by Fastenal (Jack Roush),Ford,267,running,4,32.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+14.0,20,60.0,Ryan Preece,Kroger/Ball Park Buns (Jack Roush),Ford,267,running,0,4.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+15.0,13,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,267,running,0,22.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+16.0,12,88.0,Connor Zilisch,Choice Privileges (Trackhouse Racing),Chevrolet,267,running,0,21.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+17.0,30,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,267,running,0,20.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+18.0,38,3.0,Austin Dillon,Bass Pro Shops/Winchester AA White Flyer (Richard Childress),Chevrolet,267,running,0,19.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+19.0,22,47.0,Ricky Stenhouse Jr,Onin Staffing (HYAK Motorsports),Chevrolet,267,running,0,26.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+20.0,6,8.0,Kyle Busch,zone Watermelon x Circle K (Richard Childress),Chevrolet,267,running,0,22.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+21.0,33,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,266,running,0,16.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+22.0,34,38.0,Zane Smith,Speedy Cash (Bob Jenkins),Ford,266,running,0,15.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+23.0,5,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,266,running,4,20.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+24.0,35,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,266,running,0,13.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+25.0,26,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,266,running,0,16.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+26.0,16,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,266,running,0,11.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+27.0,19,71.0,Michael McDowell,Modo Casino (Spire Motorsports),Chevrolet,266,running,0,10.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+28.0,28,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,266,running,0,9.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+29.0,24,21.0,Josh Berry,Wurth (Wood Brothers),Ford,266,running,0,8.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+30.0,29,51.0,Cody Ware,Parts Plus/Costa Oil (Rick Ware),Chevrolet,265,running,0,7.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+31.0,17,67.0,Corey Heim,Robinhood (23XI Racing),Toyota,254,crash,69,0.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+32.0,32,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,254,running,0,5.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+33.0,36,66.0,Chad Finchum,Cooper&Hunter (Carl Long),Ford,223,running,0,0.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+34.0,11,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,180,running,0,3.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+35.0,27,41.0,Cole Custer,Haas/Andy's (Gene Haas),Chevrolet,173,running,0,2.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+36.0,10,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,110,crash,1,8.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+37.0,23,22.0,Joey Logano,Discount Tire (Roger Penske),Ford,95,crash,0,1.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+38.0,7,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,68,crash,22,1.0,,2026_11,2026,11,,Fort Worth,Texas_Motor_Speedway,5/3/2026,https://www.racing-reference.info/race-results/2026_Wurth_400/W
+1.0,12,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,188,running,19,55.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+2.0,10,17.0,Chris Buescher,Kroger / Jack Link's (Jack Roush),Ford,188,running,22,50.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+3.0,20,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,188,running,0,37.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+4.0,8,9.0,Chase Elliott,Amazon Prime (Rick Hendrick),Chevrolet,188,running,0,35.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+5.0,30,38.0,Zane Smith,Aaron's / Boys & Girls Clubs of America (Bob Jenkins),Ford,188,running,0,34.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+6.0,22,47.0,Ricky Stenhouse Jr,Chef Boyardee (HYAK Motorsports),Chevrolet,188,running,2,38.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+7.0,24,1.0,Ross Chastain,Jockey VentraCool Air (Trackhouse Racing),Chevrolet,188,running,22,41.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+8.0,13,2.0,Austin Cindric,MenardsFrogTape (Roger Penske),Ford,188,running,0,29.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+9.0,29,4.0,Noah Gragson,Grillo's Pickles / Pabst Blue Ribbon (Bob Jenkins),Ford,188,running,2,31.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+10.0,34,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,188,running,0,27.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+11.0,19,34.0,Todd Gilliland,Love's Travel Stops / Fleetguard (Bob Jenkins),Ford,188,running,0,34.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+12.0,16,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,188,running,0,25.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+13.0,35,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,188,running,0,24.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+14.0,1,45.0,Tyler Reddick,Rockstar Energy Drink (23XI Racing),Toyota,188,running,2,27.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+15.0,3,11.0,Denny Hamlin,King's Hawaiian UBE Coconut Rolls (Joe Gibbs),Toyota,188,running,28,22.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+16.0,28,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,188,running,0,21.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+17.0,14,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,188,running,31,29.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+18.0,11,60.0,Ryan Preece,BuildSubmarines.com (Jack Roush),Ford,188,running,21,34.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+19.0,18,3.0,Austin Dillon,Bass Pro Shops/Winchester Long Beard XR (Richard Childress),Chevrolet,188,running,5,18.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+20.0,33,97.0,Shane Van Gisbergen,WeatherTech (Trackhouse Racing),Chevrolet,188,running,0,17.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+21.0,36,51.0,Cody Ware,Super.com (Rick Ware),Chevrolet,188,running,0,20.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+22.0,23,42.0,John H. Nemechek,Pye-Barker Fire & Safety (Legacy Motor Club),Toyota,187,running,0,15.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+23.0,21,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,187,running,0,14.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+24.0,40,78.0,Daniel Dye,Champion Container Corporation (B.J. McLeod),Chevrolet,186,running,0,0.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+25.0,17,35.0,Riley Herbst,BeatBox (23XI Racing),Toyota,186,running,0,12.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+26.0,32,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,185,running,0,11.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+27.0,37,33.0,Jesse Love,1-800-PACK-RAT (Richard Childress),Chevrolet,185,running,0,0.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+28.0,38,66.0,Chad Finchum,Carl Long,Ford,182,running,8,0.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+29.0,5,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,180,running,3,8.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+30.0,39,44.0,Joey Gase,National Fire Prevention Association,Chevrolet,177,running,0,0.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+31.0,6,6.0,Brad Keselowski,Castrol (Jack Roush),Ford,166,running,0,15.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+32.0,31,71.0,Michael McDowell,Gunk (Spire Motorsports),Chevrolet,149,running,1,5.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+33.0,26,21.0,Josh Berry,Motorcraft/Quick Lane (Wood Brothers),Ford,124,crash,0,9.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+34.0,9,54.0,Ty Gibbs,Saia Freight + Logistics (Joe Gibbs),Toyota,122,crash,17,3.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+35.0,7,24.0,William Byron,Phorm Energy (Rick Hendrick),Chevrolet,119,crash,0,2.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+36.0,4,23.0,Bubba Wallace,XFINITY (23XI Racing),Toyota,114,crash,3,1.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+37.0,15,12.0,Ryan Blaney,Wurth (Roger Penske),Ford,114,crash,0,7.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+38.0,27,41.0,Cole Custer,Haas/Autodesk (Gene Haas),Chevrolet,114,crash,0,1.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+39.0,25,22.0,Joey Logano,Shell-Pennzoil (Roger Penske),Ford,114,crash,3,9.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+40.0,2,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,114,crash,0,1.0,,2026_10,2026,10,,Talladega,Talladega_Superspeedway,4/26/2026,https://www.racing-reference.info/race-results/2026_Jack_Links_500/W
+1.0,1,45.0,Tyler Reddick,SupplyHouse (23XI Racing),Toyota,274,running,10,71.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+2.0,4,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,274,running,78,54.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+3.0,5,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,274,running,0,38.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+4.0,2,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,274,running,131,52.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+5.0,10,23.0,Bubba Wallace,Boys & Girls Club of America (23XI Racing),Toyota,274,running,0,39.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+6.0,21,6.0,Brad Keselowski,Trimble (Jack Roush),Ford,274,running,0,35.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+7.0,14,24.0,William Byron,All-Pro Reconditioning (Rick Hendrick),Chevrolet,274,running,0,30.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+8.0,13,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,274,running,0,41.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+9.0,3,54.0,Ty Gibbs,Zep (Joe Gibbs),Toyota,274,running,0,38.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+10.0,7,17.0,Chris Buescher,Dillon's / Gold Peak (Jack Roush),Ford,274,running,1,29.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+11.0,12,60.0,Ryan Preece,Kickstand Cocktails (Jack Roush),Ford,274,running,0,26.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+12.0,34,2.0,Austin Cindric,PPG (Roger Penske),Ford,274,running,0,25.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+13.0,6,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,274,running,6,28.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+14.0,22,35.0,Riley Herbst,Tree Top (23XI Racing),Toyota,274,running,0,23.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+15.0,24,67.0,Corey Heim,Robinhood (23XI Racing),Toyota,274,running,0,0.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+16.0,20,3.0,Austin Dillon,Marine Corps Reserve Toys for Tots (Richard Childress),Chevrolet,274,running,0,21.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+17.0,26,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,274,running,0,20.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+18.0,33,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,274,running,0,19.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+19.0,8,7.0,Daniel Suarez,Nations Guard (Spire Motorsports),Chevrolet,274,running,1,18.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+20.0,11,20.0,Christopher Bell,Reser's Fine Foods (Joe Gibbs),Toyota,273,running,47,30.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+21.0,16,47.0,Ricky Stenhouse Jr,Pylon Aviation (HYAK Motorsports),Chevrolet,273,running,0,16.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+22.0,32,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,273,running,0,15.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+23.0,19,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,273,running,0,14.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+24.0,9,12.0,Ryan Blaney,MenardsScotts (Roger Penske),Ford,273,running,0,13.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+25.0,29,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,273,running,0,12.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+26.0,31,1.0,Ross Chastain,Busch Light Apple (Trackhouse Racing),Chevrolet,272,running,0,11.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+27.0,30,21.0,Josh Berry,DEX (Wood Brothers),Ford,272,running,0,10.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+28.0,28,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,272,running,0,9.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+29.0,36,88.0,Connor Zilisch,Choice Privileges (Trackhouse Racing),Chevrolet,272,running,0,8.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+30.0,15,22.0,Joey Logano,Hunt Brothers Pizza (Roger Penske),Ford,272,running,0,7.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+31.0,27,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,271,running,0,6.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+32.0,25,38.0,Zane Smith,Speedy Cash (Bob Jenkins),Ford,271,running,0,5.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+33.0,37,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,271,running,0,4.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+34.0,18,71.0,Michael McDowell,Delaware Life/Triad Partners (Spire Motorsports),Chevrolet,271,running,0,3.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+35.0,23,8.0,Kyle Busch,Nicokick x zone Cranberry (Richard Childress),Chevrolet,270,running,0,2.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+36.0,17,97.0,Shane Van Gisbergen,Red Bull (Trackhouse Racing),Chevrolet,270,running,0,1.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+37.0,35,51.0,Cody Ware,True Brand (Rick Ware),Chevrolet,268,running,0,1.0,,2026_9,2026,9,,Kansas,Kansas_Speedway,4/19/2026,https://www.racing-reference.info/race-results/2026_AdventHealth_400/W
+1.0,5,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,505,running,25,59.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+2.0,1,12.0,Ryan Blaney,Discount Tire (Roger Penske),Ford,505,running,190,53.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+3.0,8,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,505,running,284,54.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+4.0,2,45.0,Tyler Reddick,Comparion Insurance (23XI Racing),Toyota,505,running,0,33.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+5.0,3,19.0,Chase Briscoe,Lance (Joe Gibbs),Toyota,505,running,0,45.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+6.0,35,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,505,running,0,31.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+7.0,20,22.0,Joey Logano,Shell-Pennzoil (Roger Penske),Ford,505,running,0,33.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+8.0,17,60.0,Ryan Preece,Kroger / Muscle Milk (Jack Roush),Ford,505,running,0,29.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+9.0,11,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,505,running,0,41.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+10.0,10,77.0,Carson Hocevar,Spectrum (Spire Motorsports),Chevrolet,505,running,0,38.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+11.0,12,23.0,Bubba Wallace,WWE/Chumba Casino (23XI Racing),Toyota,505,running,0,30.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+12.0,13,7.0,Daniel Suarez,Nations Guard (Spire Motorsports),Chevrolet,505,running,0,25.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+13.0,7,17.0,Chris Buescher,Trimble (Jack Roush),Ford,505,running,0,24.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+14.0,21,6.0,Brad Keselowski,Consumer Cellular (Jack Roush),Ford,505,running,0,23.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+15.0,22,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,505,running,0,22.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+16.0,9,2.0,Austin Cindric,Menards / Tarkett (Roger Penske),Ford,505,running,0,23.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+17.0,23,47.0,Ricky Stenhouse Jr,NOS Energy Drink (HYAK Motorsports),Chevrolet,504,running,0,20.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+18.0,24,3.0,Austin Dillon,Bass Pro Shops/Winchester Long Beard XR (Richard Childress),Chevrolet,504,running,0,19.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+19.0,15,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,504,running,0,18.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+20.0,6,1.0,Ross Chastain,Busch Light Fishing (Trackhouse Racing),Chevrolet,504,running,0,17.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+21.0,4,35.0,Riley Herbst,Monster Energy Zero Sugar (23XI Racing),Toyota,504,running,0,19.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+22.0,18,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,504,running,6,15.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+23.0,28,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,503,running,0,14.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+24.0,19,71.0,Michael McDowell,Delaware Life (Spire Motorsports),Chevrolet,503,running,0,13.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+25.0,29,8.0,Kyle Busch,Bank OZK (Richard Childress),Chevrolet,503,running,0,12.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+26.0,16,4.0,Noah Gragson,Long John Silver's (Bob Jenkins),Ford,503,running,0,11.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+27.0,14,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,501,running,0,19.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+28.0,30,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,501,running,0,9.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+29.0,32,10.0,Ty Dillon,Ohio Logistics (Matthew Kaulig),Chevrolet,501,running,0,8.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+30.0,34,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,500,running,0,7.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+31.0,36,51.0,Cody Ware,Costa Oil (Rick Ware),Chevrolet,500,running,0,6.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+32.0,25,21.0,Josh Berry,Motorcraft/Quick Lane (Wood Brothers),Ford,490,running,0,16.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+33.0,26,88.0,Connor Zilisch,Roto-Rooter (Trackhouse Racing),Chevrolet,478,running,0,4.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+34.0,33,97.0,Shane Van Gisbergen,WeatherTech (Trackhouse Racing),Chevrolet,335,running,0,3.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+35.0,31,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,324,running,0,2.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+36.0,37,66.0,Chad Finchum,Brian King Roofing (Carl Long),Ford,241,steering,0,0.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+37.0,27,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,163,crash,0,1.0,,2026_8,2026,8,,Bristol,Bristol_Motor_Speedway,4/12/2026,https://www.racing-reference.info/race-results/2026_Food_City_500/W
+1.0,10,9.0,Chase Elliott,UniFirst (Rick Hendrick),Chevrolet,400,running,84,55.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+2.0,1,11.0,Denny Hamlin,Bob's Discount Furniture (Joe Gibbs),Toyota,400,running,292,56.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+3.0,9,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,400,running,0,46.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+4.0,4,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,400,running,0,49.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+5.0,2,24.0,William Byron,Cincinnati (Rick Hendrick),Chevrolet,400,running,6,47.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+6.0,12,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,400,running,2,41.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+7.0,11,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,400,running,0,30.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+8.0,6,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,400,running,0,40.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+9.0,13,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,400,running,0,30.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+10.0,3,21.0,Josh Berry,DEX (Wood Brothers),Ford,400,running,2,36.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+11.0,5,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,400,running,0,34.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+12.0,17,60.0,Ryan Preece,Body Guard (Jack Roush),Ford,400,running,0,26.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+13.0,23,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,400,running,0,24.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+14.0,27,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,400,running,0,23.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+15.0,8,45.0,Tyler Reddick,SiriusXM (23XI Racing),Toyota,400,running,0,28.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+16.0,18,1.0,Ross Chastain,Safety Culture (Trackhouse Racing),Chevrolet,400,running,14,21.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+17.0,7,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,400,running,0,20.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+18.0,20,71.0,Michael McDowell,Delaware Life (Spire Motorsports),Chevrolet,400,running,0,19.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+19.0,16,17.0,Chris Buescher,Kroger / Thomas' High Protein (Jack Roush),Ford,399,running,0,18.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+20.0,22,7.0,Daniel Suarez,Group 1001 (Spire Motorsports),Chevrolet,399,running,0,17.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+21.0,19,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,399,running,0,16.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+22.0,21,48.0,Justin Allgaier,Ally (Rick Hendrick),Chevrolet,398,running,0,0.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+23.0,29,34.0,Todd Gilliland,"Dairi-O / Cheney Bros, Inc. (Bob Jenkins)",Ford,398,running,0,14.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+24.0,34,8.0,Kyle Busch,FICO (Richard Childress),Chevrolet,398,running,0,13.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+25.0,30,3.0,Austin Dillon,Dow Coatings (Richard Childress),Chevrolet,398,running,0,12.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+26.0,25,88.0,Connor Zilisch,Choice Privileges (Trackhouse Racing),Chevrolet,397,running,0,11.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+27.0,28,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,397,running,0,10.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+28.0,31,4.0,Noah Gragson,FUEL by Franzia (Bob Jenkins),Ford,397,running,0,9.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+29.0,32,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,397,running,0,8.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+30.0,33,47.0,Ricky Stenhouse Jr,JackLinks Non-Vegan (HYAK Motorsports),Chevrolet,397,running,0,7.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+31.0,24,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,396,running,0,6.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+32.0,35,51.0,Cody Ware,Super.com (Rick Ware),Chevrolet,394,running,0,5.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+33.0,37,33.0,Austin Hill,United Rentals (Richard Childress),Chevrolet,394,running,0,0.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+34.0,14,38.0,Zane Smith,Long John Silver's (Bob Jenkins),Ford,371,running,0,3.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+35.0,26,35.0,Riley Herbst,Monster Energy Zero Sugar (23XI Racing),Toyota,323,crash,0,2.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+36.0,15,23.0,Bubba Wallace,Hardee's (23XI Racing),Toyota,322,crash,0,1.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+37.0,36,10.0,Ty Dillon,Black's Tire (Matthew Kaulig),Chevrolet,298,brakes,0,1.0,,2026_7,2026,7,,Martinsville,Martinsville_Speedway,3/29/2026,https://www.racing-reference.info/race-results/2026_Cook_Out_400/W
+1.0,1,45.0,Tyler Reddick,XFINITY (23XI Racing),Toyota,293,running,77,70.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+2.0,5,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,293,running,142,55.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+3.0,7,12.0,Ryan Blaney,MenardsDelta (Roger Penske),Ford,293,running,0,42.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+4.0,16,77.0,Carson Hocevar,Chili's Marg Machine (Spire Motorsports),Chevrolet,293,running,2,33.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+5.0,12,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,293,running,0,38.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+6.0,28,54.0,Ty Gibbs,SiriusXM (Joe Gibbs),Toyota,293,running,1,33.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+7.0,11,7.0,Daniel Suarez,Nations Guard (Spire Motorsports),Chevrolet,293,running,0,33.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+8.0,13,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,293,running,0,34.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+9.0,6,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,293,running,41,42.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+10.0,24,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,293,running,0,27.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+11.0,9,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,293,running,0,26.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+12.0,23,19.0,Chase Briscoe,Free Bird Southern Spring Water (Joe Gibbs),Toyota,293,running,4,32.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+13.0,17,60.0,Ryan Preece,Kroger / Oscar Mayer / Heinz (Jack Roush),Ford,293,running,0,29.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+14.0,33,97.0,Shane Van Gisbergen,WeatherTech (Trackhouse Racing),Chevrolet,293,running,0,23.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+15.0,3,9.0,Chase Elliott,UniFirst (Rick Hendrick),Chevrolet,293,running,6,26.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+16.0,25,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,293,running,0,21.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+17.0,26,21.0,Josh Berry,Motorcraft Quick Lane (Wood Brothers),Ford,293,running,0,20.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+18.0,32,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,293,running,0,19.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+19.0,22,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,292,running,0,18.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+20.0,20,71.0,Michael McDowell,Delaware Life (Spire Motorsports),Chevrolet,292,running,0,17.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+21.0,8,8.0,Kyle Busch,BetMGM (Richard Childress),Chevrolet,292,running,0,16.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+22.0,19,38.0,Zane Smith,Mystik Lubricants (Bob Jenkins),Ford,292,running,0,15.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+23.0,31,34.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,292,running,0,14.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+24.0,15,48.0,Justin Allgaier,Ally (Rick Hendrick),Chevrolet,292,running,0,0.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+25.0,10,3.0,Austin Dillon,BPS/Winchester Long Beard XR (Richard Childress),Chevrolet,292,running,0,12.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+26.0,30,4.0,Noah Gragson,Long John Silver's (Bob Jenkins),Ford,291,running,0,11.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+27.0,21,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,291,running,0,10.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+28.0,35,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,291,running,0,9.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+29.0,18,47.0,Ricky Stenhouse Jr,JackLinks Non-Vegan (HYAK Motorsports),Chevrolet,291,running,0,8.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+30.0,27,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,291,running,0,7.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+31.0,36,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,291,running,0,6.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+32.0,4,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,291,running,20,19.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+33.0,29,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,290,running,0,4.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+34.0,2,23.0,Bubba Wallace,Columbia (23XI Racing),Toyota,288,running,0,11.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+35.0,14,35.0,Riley Herbst,Monster Energy (23XI Racing),Toyota,288,running,0,2.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+36.0,34,51.0,Cody Ware,Jacob Construction (Rick Ware),Chevrolet,285,running,0,1.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+37.0,37,66.0,Timmy Hill,Auto Direct USA (Carl Long),Ford,52,handling,0,0.0,,2026_6,2026,6,,Darlington,Darlington_Raceway,3/22/2026,https://www.racing-reference.info/race-results/2026_Goodyear_400/W
+1.0,2,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,267,running,134,70.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+2.0,15,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,267,running,0,40.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+3.0,9,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,267,running,26,49.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+4.0,1,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,267,running,31,51.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+5.0,3,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,267,running,0,39.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+6.0,10,17.0,Chris Buescher,Smith's / Farm Rich (Jack Roush),Ford,267,running,0,35.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+7.0,5,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,267,running,62,48.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+8.0,18,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,267,running,0,29.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+9.0,4,23.0,Bubba Wallace,XFINITY (23XI Racing),Toyota,267,running,0,41.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+10.0,28,6.0,Brad Keselowski,Trimble (Jack Roush),Ford,267,running,4,27.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+11.0,8,60.0,Ryan Preece,Body Guard (Jack Roush),Ford,267,running,0,33.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+12.0,11,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,267,running,0,25.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+13.0,7,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,267,running,0,30.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+14.0,12,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,267,running,0,23.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+15.0,21,22.0,Joey Logano,Pennzoil Ultra Platinum (Roger Penske),Ford,267,running,3,22.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+16.0,6,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,267,running,5,23.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+17.0,17,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,267,running,0,20.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+18.0,13,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,267,running,0,19.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+19.0,31,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,267,running,0,19.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+20.0,14,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,267,running,0,17.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+21.0,26,42.0,John H. Nemechek,TriState Vacuum & Rental LLC (Legacy Motor Club),Toyota,266,running,0,16.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+22.0,19,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,266,running,1,15.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+23.0,20,35.0,Riley Herbst,FRE Nicotine Pouches (23XI Racing),Toyota,266,running,0,14.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+24.0,29,16.0,A.J. Allmendinger,U-Save (Matthew Kaulig),Chevrolet,265,running,0,13.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+25.0,22,48.0,Justin Allgaier,Ally (Rick Hendrick),Chevrolet,265,running,0,0.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+26.0,30,71.0,Michael McDowell,Workforce (Spire Motorsports),Chevrolet,265,running,0,11.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+27.0,35,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,265,running,1,10.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+28.0,24,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,265,running,0,9.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+29.0,23,47.0,Ricky Stenhouse Jr,NOS Energy (HYAK Motorsports),Chevrolet,265,running,0,8.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+30.0,34,4.0,Noah Gragson,Curate (Bob Jenkins),Ford,265,running,0,7.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+31.0,32,21.0,Josh Berry,Motorcraft Quick Lane (Wood Brothers),Ford,264,running,0,6.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+32.0,25,88.0,Connor Zilisch,Jockey 150th Anniversary (Trackhouse Racing),Chevrolet,264,running,0,5.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+33.0,36,10.0,Ty Dillon,Campers Inn RV / U-Save (Matthew Kaulig),Chevrolet,264,running,0,4.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+34.0,27,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,264,running,0,3.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+35.0,33,51.0,Cody Ware,Yeego (Rick Ware),Chevrolet,263,running,0,2.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+36.0,16,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,262,running,0,1.0,,2026_5,2026,5,,Las Vegas,Las_Vegas_Motor_Speedway,3/15/2026,https://www.racing-reference.info/race-results/2026_Pennzoil_400_Presented_by_Jiffy_Lube/W
+1.0,5,12.0,Ryan Blaney,Dent Wizard (Roger Penske),Ford,312,running,28,65.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+2.0,12,20.0,Christopher Bell,Reser's Fine Foods (Joe Gibbs),Toyota,312,running,176,54.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+3.0,2,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,312,running,0,36.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+4.0,14,54.0,Ty Gibbs,ampm (Joe Gibbs),Toyota,312,running,12,36.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+5.0,11,11.0,Denny Hamlin,Bob's Discount Furniture (Joe Gibbs),Toyota,312,running,5,47.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+6.0,28,23.0,Bubba Wallace,Robinhood (23XI Racing),Toyota,312,running,0,37.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+7.0,9,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,312,running,1,32.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+8.0,8,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,312,running,0,39.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+9.0,16,71.0,Michael McDowell,Delaware Life (Spire Motorsports),Chevrolet,312,running,0,28.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+10.0,32,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,312,running,0,27.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+11.0,18,97.0,Shane Van Gisbergen,Safety Culture (Trackhouse Racing),Chevrolet,312,running,0,26.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+12.0,30,34.0,Todd Gilliland,Long John Silver's (Bob Jenkins),Ford,312,running,0,26.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+13.0,13,60.0,Ryan Preece,Body Guard (Jack Roush),Ford,312,running,4,24.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+14.0,17,17.0,Chris Buescher,Fry's / Artesano / Kraft (Jack Roush),Ford,312,running,0,30.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+15.0,37,6.0,Brad Keselowski,Consumer Cellular (Jack Roush),Ford,312,running,0,22.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+16.0,25,3.0,Austin Dillon,Bass Pro Shops/Winchester (Richard Childress),Chevrolet,312,running,0,21.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+17.0,29,8.0,Kyle Busch,zone JalapeÃ±o Lime (Richard Childress),Chevrolet,312,running,0,20.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+18.0,22,35.0,Riley Herbst,Monster Energy (23XI Racing),Toyota,312,running,0,19.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+19.0,23,16.0,A.J. Allmendinger,Campers Inn RV (Matthew Kaulig),Chevrolet,312,running,0,18.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+20.0,7,77.0,Carson Hocevar,"MINER DOCKS, DOORS AND MORE. (Spire Motorsports)",Chevrolet,312,running,0,21.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+21.0,27,33.0,Austin Hill,United Rentals (Richard Childress),Chevrolet,312,running,0,0.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+22.0,21,47.0,Ricky Stenhouse Jr,Pylon Aviation (HYAK Motorsports),Chevrolet,312,running,0,15.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+23.0,26,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,312,running,0,14.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+24.0,34,51.0,Cody Ware,Super.com (Rick Ware),Chevrolet,312,running,0,13.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+25.0,15,42.0,John H. Nemechek,Mobil 1 (Legacy Motor Club),Toyota,312,running,0,12.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+26.0,33,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,311,running,0,11.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+27.0,24,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,294,crash,0,10.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+28.0,6,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,286,running,0,10.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+29.0,19,88.0,Connor Zilisch,Wendy's (Trackhouse Racing),Chevrolet,281,suspension,0,8.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+30.0,4,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,254,crash,0,11.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+31.0,1,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,253,crash,73,23.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+32.0,10,21.0,Josh Berry,eero (Wood Brothers),Ford,253,crash,13,5.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+33.0,31,48.0,Anthony Alfredo,Ally Best Friends (Rick Hendrick),Chevrolet,217,crash,0,0.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+34.0,3,2.0,Austin Cindric,Menards Quaker State (Roger Penske),Ford,216,crash,0,13.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+35.0,36,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,159,radiator,0,2.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+36.0,35,4.0,Noah Gragson,Straight Talk Wireless (Bob Jenkins),Ford,155,crash,0,1.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+37.0,20,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,131,crash,0,1.0,,2026_4,2026,4,,Phoenix,Phoenix_Raceway,3/8/2026,https://www.racing-reference.info/race-results/2026_Straight_Talk_Wireless_500/W
+1.0,1,45.0,Tyler Reddick,Chumba Casino (23XI Racing),Toyota,95,running,58,61.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+2.0,13,97.0,Shane Van Gisbergen,Safety Culture (Trackhouse Racing),Chevrolet,95,running,2,45.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+3.0,8,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,95,running,0,34.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+4.0,9,54.0,Ty Gibbs,SAIA Freight & Logistics (Joe Gibbs),Toyota,95,running,5,48.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+5.0,6,71.0,Michael McDowell,Katz Coffee (Spire Motorsports),Chevrolet,95,running,5,40.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+6.0,15,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,95,running,0,31.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+7.0,5,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,95,running,0,33.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+8.0,4,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,95,running,11,33.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+9.0,7,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,95,running,1,43.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+10.0,19,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,95,running,0,28.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+11.0,24,23.0,Bubba Wallace,Robinhood (23XI Racing),Toyota,95,running,0,31.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+12.0,30,8.0,Kyle Busch,Rebel Root Beer Whiskey (Richard Childress),Chevrolet,95,running,0,25.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+13.0,10,24.0,William Byron,All Pro Reconditioning (Rick Hendrick),Chevrolet,95,running,1,26.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+14.0,25,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,95,running,0,23.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+15.0,20,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,95,running,0,22.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+16.0,21,10.0,Ty Dillon,Patriot Mobile (Matthew Kaulig),Chevrolet,95,running,0,21.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+17.0,31,42.0,John H. Nemechek,Pye Barker Fire & Safety (Legacy Motor Club),Toyota,95,running,0,20.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+18.0,29,60.0,Ryan Preece,Castrol (Jack Roush),Ford,95,running,0,19.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+19.0,33,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,95,running,0,18.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+20.0,26,6.0,Brad Keselowski,Graza (Jack Roush),Ford,95,running,0,17.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+21.0,17,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,95,running,0,23.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+22.0,35,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,95,running,0,15.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+23.0,32,35.0,Riley Herbst,Monster Energy (23XI Racing),Toyota,95,running,0,14.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+24.0,14,17.0,Chris Buescher,Trimble (Jack Roush),Ford,95,running,0,20.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+25.0,23,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,95,running,0,20.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+26.0,22,21.0,Josh Berry,DEX (Wood Brothers),Ford,95,running,0,11.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+27.0,27,33.0,Jesse Love,C4 Energy (Richard Childress),Chevrolet,95,running,0,0.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+28.0,34,47.0,Ricky Stenhouse Jr,Ram Self Storage (HYAK Motorsports),Chevrolet,95,running,0,9.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+29.0,18,41.0,Cole Custer,Haas/Bonanza (Gene Haas),Chevrolet,95,running,0,11.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+30.0,37,51.0,Cody Ware,Parts Plus/Costa Oil (Rick Ware),Chevrolet,95,running,0,7.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+31.0,12,77.0,Carson Hocevar,Chili's Ride the 'Dente (Spire Motorsports),Chevrolet,95,running,0,8.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+32.0,28,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,95,running,0,5.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+33.0,11,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,95,running,0,4.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+34.0,36,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,93,running,0,3.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+35.0,2,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,93,running,4,13.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+36.0,16,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,89,running,0,5.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+37.0,3,19.0,Chase Briscoe,Columbia Bank (Joe Gibbs),Toyota,62,transaxle,8,1.0,,2026_3,2026,3,,Austin,Circuit_of_the_Americas,3/1/2026,https://www.racing-reference.info/race-results/2026_DuraMax_Texas_Grand_Prix/W
+1.0,1,45.0,Tyler Reddick,Pinnacle (23XI Racing),Toyota,271,running,53,67.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+2.0,34,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,271,running,27,43.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+3.0,21,1.0,Ross Chastain,Wendy's (Trackhouse Racing),Chevrolet,271,running,0,34.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+4.0,15,77.0,Carson Hocevar,Specturm (Spire Motorsports),Chevrolet,271,running,2,38.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+5.0,12,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,271,running,0,32.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+6.0,28,97.0,Shane Van Gisbergen,Red Bull (Trackhouse Racing),Chevrolet,271,running,1,32.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+7.0,6,38.0,Zane Smith,Aaron's Rent to Own (Bob Jenkins),Ford,271,running,1,30.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+8.0,9,23.0,Bubba Wallace,XFINITY (23XI Racing),Toyota,271,running,46,48.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+9.0,26,60.0,Ryan Preece,Kroger / Red Baron (Jack Roush),Ford,271,running,0,32.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+10.0,22,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,271,running,6,31.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+11.0,4,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,271,running,11,38.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+12.0,19,16.0,A.J. Allmendinger,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,271,running,0,25.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+13.0,29,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,271,running,10,24.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+14.0,11,4.0,Noah Gragson,TitleMax (Bob Jenkins),Ford,271,running,0,23.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+15.0,7,17.0,Chris Buescher,Body Guard (Jack Roush),Ford,271,running,0,22.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+16.0,17,10.0,Ty Dillon,Sea Best (Matthew Kaulig),Chevrolet,271,running,0,21.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+17.0,5,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,271,running,10,22.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+18.0,2,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,271,running,26,22.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+19.0,24,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,271,running,0,18.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+20.0,20,71.0,Michael McDowell,B'laster (Spire Motorsports),Chevrolet,271,running,0,17.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+21.0,32,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,271,running,9,16.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+22.0,27,41.0,Cole Custer,Haas/Andy's Frozen Custard (Gene Haas),Chevrolet,270,running,0,16.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+23.0,36,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,269,running,0,14.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+24.0,23,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,269,running,0,13.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+25.0,35,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,258,crash,0,12.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+26.0,30,2.0,Austin Cindric,AutoTrader (Roger Penske),Ford,257,crash,21,21.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+27.0,18,51.0,Cody Ware,BlueHighway.ai (Rick Ware),Chevrolet,257,crash,0,10.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+28.0,13,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,256,crash,0,25.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+29.0,33,3.0,Austin Dillon,Morgan & Morgan (Richard Childress),Chevrolet,256,crash,0,8.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+30.0,31,88.0,Connor Zilisch,Tootsies (Trackhouse Racing),Chevrolet,223,crash,0,9.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+31.0,38,44.0,J.J. Yeley,Built To Work/Barnett Southern,Chevrolet,220,crash,0,0.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+32.0,16,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,160,crash,48,13.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+33.0,8,35.0,Riley Herbst,Monster Energy (23XI Racing),Toyota,157,running,0,4.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+34.0,14,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,124,crash,0,7.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+35.0,37,78.0,B.J. McLeod,B.J. McLeod,Chevrolet,111,crash,0,2.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+36.0,3,47.0,Ricky Stenhouse Jr,Chef Boyardee (HYAK Motorsports),Chevrolet,103,crash,0,1.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+37.0,25,54.0,Ty Gibbs,SAIA Freight & Logistics (Joe Gibbs),Toyota,81,crash,0,1.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+38.0,10,21.0,Josh Berry,Motorcraft Quick Lane (Wood Brothers),Ford,81,crash,0,1.0,,2026_2,2026,2,,Atlanta,Echopark_Speedway,2/22/2026,https://www.racing-reference.info/race-results/2026_Autotrader_Echopark_Speedway_400/W
+1.0,26,45.0,Tyler Reddick,Chumba Casino (23XI Racing),Toyota,200,running,1,58.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+2.0,16,47.0,Ricky Stenhouse Jr,Chef Boyardee (HYAK Motorsports),Chevrolet,200,running,4,39.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+3.0,3,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,200,running,9,46.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+4.0,4,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,200,running,2,43.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+5.0,9,6.0,Brad Keselowski,Castrol (Jack Roush),Ford,200,running,0,39.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+6.0,30,38.0,Zane Smith,Speedy Cash (Bob Jenkins),Ford,200,running,9,41.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+7.0,41,17.0,Chris Buescher,Body Guard (Jack Roush),Ford,200,running,4,39.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+8.0,28,35.0,Riley Herbst,Monster Energy Zero Sugar (23XI Racing),Toyota,200,running,0,35.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+9.0,14,21.0,Josh Berry,Motorcraft Quick Lane (Wood Brothers),Ford,200,running,0,33.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+10.0,27,23.0,Bubba Wallace,XFINITY (23XI Racing),Toyota,200,running,40,37.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+11.0,25,4.0,Noah Gragson,Rush Truck Centers (Bob Jenkins),Ford,200,running,0,27.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+12.0,39,24.0,William Byron,Raptor (Rick Hendrick),Chevrolet,200,running,0,25.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+13.0,15,7.0,Daniel Suarez,Freeway Insurance (Spire Motorsports),Chevrolet,200,running,0,35.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+14.0,34,10.0,Ty Dillon,Grizzly Nicotine Pouches (Matthew Kaulig),Chevrolet,200,running,3,23.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+15.0,1,8.0,Kyle Busch,zone JalapeÃ±o Lime (Richard Childress),Chevrolet,200,running,19,29.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+16.0,8,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,200,running,7,29.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+17.0,33,51.0,Cody Ware,Jacob Construction (Rick Ware),Chevrolet,200,running,2,20.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+18.0,6,77.0,Carson Hocevar,Spectrum (Spire Motorsports),Chevrolet,200,running,1,36.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+19.0,35,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,200,running,1,18.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+20.0,37,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,200,running,12,17.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+21.0,24,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,200,running,0,16.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+22.0,10,71.0,Michael McDowell,Modo Casino (Spire Motorsports),Chevrolet,200,running,10,26.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+23.0,20,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,200,running,0,16.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+24.0,23,41.0,Cole Custer,HaasTooling.com (Gene Haas),Chevrolet,200,running,0,13.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+25.0,19,60.0,Ryan Preece,Kroger/ Viva Towels (Jack Roush),Ford,200,running,0,17.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+26.0,11,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,199,crash,19,25.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+27.0,5,12.0,Ryan Blaney,MenardsPEAK (Roger Penske),Ford,199,crash,2,36.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+28.0,29,67.0,Corey Heim,Robinhood (23XI Racing),Toyota,199,running,8,0.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+29.0,31,84.0,Jimmie Johnson,Carvana (Legacy Motor Club),Toyota,199,crash,0,0.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+30.0,13,97.0,Shane Van Gisbergen,SuperFile (Trackhouse Racing),Chevrolet,199,running,3,13.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+31.0,22,11.0,Denny Hamlin,National Debt Relief (Joe Gibbs),Toyota,198,running,3,8.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+32.0,17,66.0,Casey Mears,SI Yachts / Gracie Foundation (Carl Long),Ford,195,running,0,9.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+33.0,32,88.0,Connor Zilisch,Red Bull (Trackhouse Racing),Chevrolet,195,running,0,5.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+34.0,36,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,193,running,5,13.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+35.0,12,20.0,Christopher Bell,DEWALT - Interstate Batteries (Joe Gibbs),Toyota,191,crash,9,9.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+36.0,2,19.0,Chase Briscoe,Bass Pro Shops (Joe Gibbs),Toyota,188,running,23,2.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+37.0,7,3.0,Austin Dillon,Bass Pro Shops/Winchester (Richard Childress),Chevrolet,137,crash,0,9.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+38.0,40,40.0,Justin Allgaier,Traveller Whiskey (JR Motorsports),Chevrolet,123,crash,3,0.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+39.0,18,34.0,Todd Gilliland,Love's Travel Stops (Bob Jenkins),Ford,123,crash,1,4.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+40.0,21,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,123,crash,0,4.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+41.0,38,78.0,B.J. McLeod,Superior Logistics (B.J. McLeod),Chevrolet,4,crash,0,1.0,,2026_1,2026,1,,Daytona,Daytona_International_Speedway,2/15/2026,https://www.racing-reference.info/race-results/2026_Daytona_500/W
+1.0,1,11,Denny Hamlin,King's Hawaiian Shake 'Em Bites   (Joe Gibbs),Toyota,160,running,28,67.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+2.0,16,45,Tyler Reddick,SupplyHouse   (23XI Racing),Toyota,160,running,24,35.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+3.0,9,24,William Byron,Raptor   (Rick Hendrick),Chevrolet,160,running,0,38.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+4.0,8,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,160,running,42,41.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+5.0,2,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,160,running,24,41.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+6.0,7,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,160,running,1,41.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+7.0,6,17,Chris Buescher,BuildSubmarines.com   (Jack Roush),Ford,160,running,0,37.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+8.0,24,1,Ross Chastain,Busch Light Lime   (Trackhouse Racing),Chevrolet,160,running,0,34.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+9.0,4,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,160,running,0,36.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+10.0,10,12,Ryan Blaney,Wabash   (Roger Penske),Ford,160,running,3,27.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+11.0,23,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,160,running,9,27.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+12.0,5,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,160,running,4,41.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+13.0,3,7,Daniel Suarez,Freeway Insurance/Roamly   (Spire Motorsports),Chevrolet,160,running,0,32.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+14.0,17,2,Austin Cindric,MenardsIdeal Door Garage Doors   (Roger Penske),Ford,160,running,1,23.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+15.0,21,47,Ricky Stenhouse Jr,Pylon Aviation   (HYAK Motorsports),Chevrolet,160,running,0,28.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+16.0,25,35,Riley Herbst,Monster Energy Zero Sugar   (23XI Racing),Toyota,160,running,0,21.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+17.0,13,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,160,running,0,20.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+18.0,14,33,Austin Hill,zone Jalapeño Lime   (Richard Childress),Chevrolet,160,running,0,0.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+19.0,29,34,Todd Gilliland,Love's Travel Stops   (Bob Jenkins),Ford,160,running,6,28.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+20.0,26,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,160,running,0,21.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+21.0,38,23,Bubba Wallace,SHADYRAYS   (23XI Racing),Toyota,160,running,0,16.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+22.0,19,16,A.J. Allmendinger,Celsius   (Matthew Kaulig),Chevrolet,160,running,0,15.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+23.0,28,88,Connor Zilisch,Roto-Rooter   (Trackhouse Racing),Chevrolet,160,running,0,14.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+24.0,15,41,Cole Custer,Haas/Autodesk   (Gene Haas),Chevrolet,160,running,0,13.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+25.0,32,3,Austin Dillon,BetMGM x Survivor Triple Challenge   (Richard Childress),Chevrolet,160,running,0,12.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+26.0,22,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,160,running,18,11.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+27.0,12,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,160,running,0,10.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+28.0,35,60,Ryan Preece,Trimble   (Jack Roush),Ford,159,running,0,9.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+29.0,34,78,Daniel Dye,Champion Container   (B.J. McLeod),Chevrolet,159,running,0,0.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+30.0,33,51,Cody Ware,Rocket Doctor   (Rick Ware),Chevrolet,159,running,0,7.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+31.0,31,97,Shane Van Gisbergen,SuperFile   (Trackhouse Racing),Chevrolet,158,running,0,6.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+32.0,27,10,Ty Dillon,Patriot Mobile   (Matthew Kaulig),Chevrolet,158,running,0,5.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+33.0,20,21,Josh Berry,Capgemini   (Wood Brothers),Ford,157,running,0,4.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+34.0,11,22,Joey Logano,Shell-Pennzoil   (Roger Penske),Ford,156,running,0,5.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+35.0,30,4,Noah Gragson,MillerTech / KOA   (Bob Jenkins),Ford,107,handling,0,2.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+36.0,36,62,Casey Mears,The Gracie Foundation   (Beard Motorsports),Chevrolet,105,crash,0,1.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+37.0,18,38,Zane Smith,Long John Silver's   (Bob Jenkins),Ford,66,handling,0,1.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+38.0,37,6,Brad Keselowski,Castrol   (Jack Roush),Ford,46,crash,0,1.0,,2026_16,2026,16,,Pocono,Pocono_Raceway,6/14/2026,
+1.0,13,67,Corey Heim,Mobil 1/O'Reilly Auto Parts   (23XI Racing),Toyota,75,running,3,0.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+2.0,12,23,Bubba Wallace,XFINITY   (23XI Racing),Toyota,75,running,2,35.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+3.0,14,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,75,running,11,42.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+4.0,4,38,Zane Smith,Hard Rock Casino Tejon / Hard Rock Cafe   (Bob Jenkins),Ford,75,running,3,33.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+5.0,15,16,A.J. Allmendinger,Celsius   (Matthew Kaulig),Chevrolet,75,running,0,45.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+6.0,16,17,Chris Buescher,Body Guard   (Jack Roush),Ford,75,running,7,39.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+7.0,23,1,Ross Chastain,Kubota Veterans Honor   (Trackhouse Racing),Chevrolet,75,running,0,33.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+8.0,24,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,75,running,3,38.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+9.0,3,12,Ryan Blaney,Wurth   (Roger Penske),Ford,75,running,12,44.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+10.0,9,71,Michael McDowell,Defense Unicorns   (Spire Motorsports),Chevrolet,75,running,0,27.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+11.0,7,60,Ryan Preece,Ralphs / Scott 1000   (Jack Roush),Ford,75,running,5,45.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+12.0,30,9,Chase Elliott,NAPA Gold Filters   (Rick Hendrick),Chevrolet,75,running,0,25.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+13.0,6,7,Daniel Suarez,Freeway Insurance   (Spire Motorsports),Chevrolet,75,running,0,28.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+14.0,26,11,Denny Hamlin,Bob's Discount Furniture   (Joe Gibbs),Toyota,75,running,0,23.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+15.0,11,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,75,running,0,29.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+16.0,28,42,John H. Nemechek,DriveValue.com   (Legacy Motor Club),Toyota,75,running,0,21.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+17.0,22,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,75,running,0,20.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+18.0,19,22,Joey Logano,Shell Pennzoil   (Roger Penske),Ford,75,running,0,23.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+19.0,2,77,Carson Hocevar,Spectrum   (Spire Motorsports),Chevrolet,75,running,4,27.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+20.0,38,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,75,running,0,17.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+21.0,5,34,Todd Gilliland,Grillo's Pickles   (Bob Jenkins),Ford,75,running,0,23.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+22.0,31,2,Austin Cindric,MenardsCardell Cabinetry   (Roger Penske),Ford,75,running,0,15.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+23.0,39,51,Cody Ware,Rocket Doctor   (Rick Ware),Chevrolet,75,running,0,14.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+24.0,18,3,Austin Dillon,Boot Barn   (Richard Childress),Chevrolet,75,running,0,13.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+25.0,17,45,Tyler Reddick,Pala Casino   (23XI Racing),Toyota,75,running,9,12.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+26.0,20,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,75,running,0,11.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+27.0,21,91,Kevin Magnussen,Qualcomm   (Trackhouse Racing),Chevrolet,75,running,0,11.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+28.0,36,84,Jimmie Johnson,Carvana   (Legacy Motor Club),Toyota,75,running,0,9.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+29.0,35,21,Josh Berry,Motorcraft/Quick Lane   (Wood Brothers),Ford,75,running,0,8.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+30.0,34,10,Ty Dillon,The Fallen Outdoors   (Matthew Kaulig),Chevrolet,74,running,0,7.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+31.0,25,41,Cole Custer,Texas A & M   (Gene Haas),Chevrolet,72,running,0,6.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+32.0,27,24,William Byron,Anduril   (Rick Hendrick),Chevrolet,68,running,0,6.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+33.0,33,47,Ricky Stenhouse Jr,Sycuan Casino and Resort   (HYAK Motorsports),Chevrolet,59,radiator,0,4.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+34.0,29,6,Brad Keselowski,BuildSubmarines.com   (Jack Roush),Ford,59,running,0,3.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+35.0,32,4,Noah Gragson,Rush Truck Centers / Cummins   (Bob Jenkins),Ford,37,crash,0,2.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+36.0,10,33,Austin Hill,Cheddar's Scratch Kitchen   (Richard Childress),Chevrolet,31,crash,1,0.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+37.0,8,88,Connor Zilisch,Red Bull   (Trackhouse Racing),Chevrolet,31,crash,8,3.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+38.0,1,97,Shane Van Gisbergen,Red Bull   (Trackhouse Racing),Chevrolet,31,crash,7,1.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+39.0,37,20,Christopher Bell,CRAFTSMAN Racing for a Miracle   (Joe Gibbs),Toyota,28,engine,0,1.0,,2026_17,2026,17,,Coronado,Naval_Base_Coronado,6/21/2026,
+1.0,6,97,Shane Van Gisbergen,Red Bull   (Trackhouse Racing),Chevrolet,110,running,74,63.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+2.0,7,19,Chase Briscoe,Columbia Bank   (Joe Gibbs),Toyota,110,running,0,37.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+3.0,1,54,Ty Gibbs,Saia Freight + Logistics   (Joe Gibbs),Toyota,110,running,31,54.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+4.0,3,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,110,running,2,35.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+5.0,14,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,110,running,0,50.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+6.0,16,12,Ryan Blaney,Menards Dutch Boy   (Roger Penske),Ford,110,running,1,32.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+7.0,17,88,Connor Zilisch,WeatherTech   (Trackhouse Racing),Chevrolet,110,running,0,33.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+8.0,19,60,Ryan Preece,Consumer Cellular   (Jack Roush),Ford,110,running,0,35.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+9.0,4,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,110,running,0,36.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+10.0,22,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,110,running,0,32.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+11.0,2,77,Carson Hocevar,Classic Collision   (Spire Motorsports),Chevrolet,110,running,0,33.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+12.0,13,24,William Byron,Axalta Solar Boost   (Rick Hendrick),Chevrolet,110,running,1,25.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+13.0,23,2,Austin Cindric,America's Tire   (Roger Penske),Ford,110,running,0,31.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+14.0,5,1,Ross Chastain,Kubota   (Trackhouse Racing),Chevrolet,110,running,1,29.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+15.0,35,6,Brad Keselowski,Castrol / Les Schwab   (Jack Roush),Ford,110,running,0,22.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+16.0,8,16,A.J. Allmendinger,EchoPark Automotive   (Matthew Kaulig),Chevrolet,110,running,0,29.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+17.0,18,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,110,running,0,20.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+18.0,24,38,Zane Smith,Not Today by Mike Avila / MRC Construction   (Bob Jenkins),Ford,110,running,0,24.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+19.0,15,17,Chris Buescher,Trimble / Liverpool FC   (Jack Roush),Ford,110,running,0,18.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+20.0,27,41,Cole Custer,Autodesk/Haas   (Gene Haas),Chevrolet,110,running,0,17.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+21.0,33,47,Ricky Stenhouse Jr,Brazier Lumber Company   (HYAK Motorsports),Chevrolet,110,running,0,16.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+22.0,26,23,Bubba Wallace,Robinhood   (23XI Racing),Toyota,110,running,0,15.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+23.0,32,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,110,running,0,17.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+24.0,10,22,Joey Logano,Shell Pennzoil   (Roger Penske),Ford,110,running,0,13.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+25.0,20,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,110,running,0,12.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+26.0,9,11,Denny Hamlin,Yahoo!   (Joe Gibbs),Toyota,110,running,0,11.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+27.0,30,3,Austin Dillon,Bass Pro Shops/Winchester Supreme Long Range   (Richard Childress),Chevrolet,110,running,0,10.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+28.0,28,21,Josh Berry,eero   (Wood Brothers),Ford,110,running,0,9.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+29.0,29,34,Todd Gilliland,Love's Travel Stops / PEAK   (Bob Jenkins),Ford,110,running,0,8.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+30.0,25,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,110,running,0,8.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+31.0,21,7,Daniel Suarez,Freeway Insurance   (Spire Motorsports),Chevrolet,110,running,0,6.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+32.0,34,4,Noah Gragson,Hard Rock Casino Tejon   (Bob Jenkins),Ford,110,running,0,5.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+33.0,36,51,Cody Ware,Super.com   (Rick Ware),Chevrolet,109,running,0,4.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+34.0,12,33,Austin Hill,zone x am pm   (Richard Childress),Chevrolet,109,running,0,0.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+35.0,31,10,Ty Dillon,Patriot Mobile   (Matthew Kaulig),Chevrolet,109,running,0,2.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+36.0,11,45,Tyler Reddick,Pala Casino   (23XI Racing),Toyota,106,running,0,2.0,,2026_18,2026,18,,Sonoma,Sonoma_Raceway,6/28/2026,
+1.0,7,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,267,running,51,70.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+2.0,6,20,Christopher Bell,Saia Freight + Logistics   (Joe Gibbs),Toyota,267,running,1,40.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+3.0,1,11,Denny Hamlin,Progressive Insurance   (Joe Gibbs),Toyota,267,running,30,45.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+4.0,10,24,William Byron,Anduril   (Rick Hendrick),Chevrolet,267,running,94,53.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+5.0,12,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,267,running,0,35.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+6.0,8,23,Bubba Wallace,Upper Deck Space Jam 30th Anniversary   (23XI Racing),Toyota,267,running,35,40.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+7.0,14,12,Ryan Blaney,Menards Dutch Boy   (Roger Penske),Ford,267,running,8,36.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+8.0,5,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,267,running,0,38.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+9.0,28,67,Corey Heim,Shield AI   (23XI Racing),Toyota,267,running,1,0.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+10.0,18,35,Riley Herbst,Monster Energy Zero Sugar   (23XI Racing),Toyota,267,running,0,31.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+11.0,9,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,267,running,0,30.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+12.0,31,22,Joey Logano,Shell Pennzoil   (Roger Penske),Ford,267,running,1,25.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+13.0,23,2,Austin Cindric,PPG   (Roger Penske),Ford,267,running,18,33.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+14.0,26,7,Daniel Suarez,Modo Casino   (Spire Motorsports),Chevrolet,267,running,0,23.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+15.0,22,43,Erik Jones,AdventHealth   (Legacy Motor Club),Toyota,267,running,0,22.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+16.0,29,34,Todd Gilliland,gener8tor   (Bob Jenkins),Ford,267,running,1,21.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+17.0,11,16,A.J. Allmendinger,Celsius   (Matthew Kaulig),Chevrolet,266,running,0,20.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+18.0,19,1,Ross Chastain,Busch Light Flavor Showdown   (Trackhouse Racing),Chevrolet,266,running,0,19.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+19.0,3,17,Chris Buescher,Body Guard   (Jack Roush),Ford,266,running,0,23.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+20.0,27,10,Ty Dillon,Sea Best   (Matthew Kaulig),Chevrolet,266,running,0,17.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+21.0,4,6,Brad Keselowski,Travel Centers of America   (Jack Roush),Ford,266,running,0,16.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+22.0,15,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,266,running,0,15.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+23.0,17,42,John H. Nemechek,Dollar Tree   (Legacy Motor Club),Toyota,266,running,0,15.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+24.0,25,3,Austin Dillon,Dow Veterans   (Richard Childress),Chevrolet,266,running,0,13.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+25.0,30,97,Shane Van Gisbergen,SuperFile x Lefty Out There   (Trackhouse Racing),Chevrolet,266,running,0,12.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+26.0,24,47,Ricky Stenhouse Jr,Pylon Aviation   (HYAK Motorsports),Chevrolet,266,running,0,11.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+27.0,32,4,Noah Gragson,Long John Silver's   (Bob Jenkins),Ford,266,running,0,10.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+28.0,16,38,Zane Smith,Vermeer Midwest   (Bob Jenkins),Ford,266,running,0,9.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+29.0,38,71,Michael McDowell,Veterans 1001/Delaware Life   (Spire Motorsports),Chevrolet,266,running,0,8.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+30.0,37,51,Cody Ware,Super.com / Rocket Doctor   (Rick Ware),Chevrolet,266,running,0,7.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+31.0,33,41,Cole Custer,Haas/Andy's   (Gene Haas),Chevrolet,266,running,2,6.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+32.0,20,60,Ryan Preece,Mariano's / Athletic Brewing   (Jack Roush),Ford,266,running,0,5.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+33.0,34,21,Josh Berry,eero   (Wood Brothers),Ford,265,running,0,4.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+34.0,2,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,265,running,23,12.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+35.0,36,44,J.J. Yeley,Fanatics Casino,Chevrolet,256,running,2,0.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+36.0,13,45,Tyler Reddick,Jordan Brand   (23XI Racing),Toyota,237,running,0,2.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+37.0,35,33,Austin Hill,zone x 7-Eleven   (Richard Childress),Chevrolet,47,crash,0,0.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+38.0,21,88,Connor Zilisch,Red Bull   (Trackhouse Racing),Chevrolet,0,crash,0,1.0,,2026_19,2026,19,,Chicago,Chicagoland_Speedway,7/5/2026,
+1.0,1,12,Ryan Blaney,BodyArmor Flash I.V.   (Roger Penske),Ford,263,running,171,75.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+2.0,32,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,263,running,5,39.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+3.0,14,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,263,running,25,39.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+4.0,23,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,263,running,32,38.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+5.0,11,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,263,running,0,35.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+6.0,12,97,Shane Van Gisbergen,SuperFile   (Trackhouse Racing),Chevrolet,263,running,0,32.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+7.0,4,3,Austin Dillon,Titan Risk Solutions   (Richard Childress),Chevrolet,263,running,0,34.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+8.0,31,45,Tyler Reddick,Chumba Casino   (23XI Racing),Toyota,263,running,8,47.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+9.0,2,22,Joey Logano,Hunt Brothers Pizza   (Roger Penske),Ford,263,running,0,43.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+10.0,13,17,Chris Buescher,Kroger / Heinz Ketchup / Artesano Brioche Bun   (Jack Roush),Ford,263,running,0,27.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+11.0,9,1,Ross Chastain,Moose Fraternity   (Trackhouse Racing),Chevrolet,263,running,0,26.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+12.0,28,11,Denny Hamlin,SportClips Haircuts   (Joe Gibbs),Toyota,263,running,0,27.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+13.0,7,9,Chase Elliott,NAPA Auto Parts / CHOA   (Rick Hendrick),Chevrolet,263,running,5,26.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+14.0,8,2,Austin Cindric,Menards Quaker State   (Roger Penske),Ford,263,running,0,36.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+15.0,18,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,263,running,0,22.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+16.0,26,24,William Byron,HP   (Rick Hendrick),Chevrolet,263,running,0,21.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+17.0,33,41,Cole Custer,Sysco / RaceTrac   (Gene Haas),Chevrolet,263,running,0,20.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+18.0,24,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,263,running,0,19.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+19.0,21,34,Todd Gilliland,"Ruedebusch Development & Construction, Inc.   (Bob Jenkins)",Ford,263,running,0,18.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+20.0,16,10,Ty Dillon,Grizzly Nicotine Pouches   (Matthew Kaulig),Chevrolet,263,running,0,17.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+21.0,5,7,Daniel Suarez,Freeway Insurance   (Spire Motorsports),Chevrolet,263,running,0,22.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+22.0,6,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,263,running,0,15.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+23.0,15,47,Ricky Stenhouse Jr,Clemco   (HYAK Motorsports),Chevrolet,263,running,0,14.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+24.0,19,60,Ryan Preece,Solomon Plumbing   (Jack Roush),Ford,263,running,1,13.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+25.0,17,21,Josh Berry,eero   (Wood Brothers),Ford,263,running,1,12.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+26.0,10,6,Brad Keselowski,BuildSubmarines.com   (Jack Roush),Ford,263,running,0,11.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+27.0,36,4,Noah Gragson,Long John Silver's   (Bob Jenkins),Ford,263,running,0,10.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+28.0,25,88,Connor Zilisch,Red Bull   (Trackhouse Racing),Chevrolet,263,running,0,9.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+29.0,22,23,Bubba Wallace,Columbia PFG/Academy Sports   (23XI Racing),Toyota,263,running,11,9.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+30.0,34,38,Zane Smith,Aaron's Rent to Own   (Bob Jenkins),Ford,262,running,0,7.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+31.0,30,33,Austin Hill,Bank OZK   (Richard Childress),Chevrolet,261,running,0,0.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+32.0,35,51,Cody Ware,Rocket Doctor   (Rick Ware),Chevrolet,259,running,0,6.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+33.0,38,66,Chad Finchum,Carters Royal Dispos-all   (Carl Long),Ford,259,running,0,0.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+34.0,3,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,258,running,4,11.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+35.0,29,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,255,crash,0,2.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+36.0,20,19,Chase Briscoe,Freebird Spring Water   (Joe Gibbs),Toyota,254,crash,0,4.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+37.0,27,16,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Chevrolet,230,crash,0,1.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+38.0,37,78,B.J. McLeod,Pigeon Forge Racing Coaster   (B.J. McLeod),Chevrolet,105,mechanical,0,1.0,,2026_20,2026,20,,Atlanta,EchoPark Speedway,7/12/2026,
+1.0,11,22,Joey Logano,Shell-Pennzoil   (Roger Penske),Ford,450,running,323,73.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+2.0,7,11,Denny Hamlin,Progressive Insurance   (Joe Gibbs),Toyota,450,running,9,51.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+3.0,30,19,Chase Briscoe,WIX Filters   (Joe Gibbs),Toyota,450,running,5,45.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+4.0,2,54,Ty Gibbs,SiriusXM   (Joe Gibbs),Toyota,450,running,47,43.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+5.0,8,97,Shane Van Gisbergen,Wendy's   (Trackhouse Racing),Chevrolet,450,running,49,47.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+6.0,26,23,Bubba Wallace,Coca-Cola   (23XI Racing),Toyota,450,running,8,38.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+7.0,23,6,Brad Keselowski,Consumer Cellular   (Jack Roush),Ford,449,running,7,34.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+8.0,18,34,Todd Gilliland,"Ruedebusch Development & Construction, Inc.   (Bob Jenkins)",Ford,449,running,0,31.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+9.0,17,7,Daniel Suarez,Cal Ripken Sr. Foundation   (Spire Motorsports),Chevrolet,449,running,1,29.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+10.0,21,60,Ryan Preece,SimpleTire   (Jack Roush),Ford,449,running,0,27.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+11.0,1,12,Ryan Blaney,MenardsDuracell   (Roger Penske),Ford,448,running,1,29.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+12.0,15,24,William Byron,All-Pro Reconditioning   (Rick Hendrick),Chevrolet,448,running,0,26.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+13.0,4,77,Carson Hocevar,Spectrum   (Spire Motorsports),Chevrolet,448,running,0,35.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+14.0,14,2,Austin Cindric,Freightliner   (Roger Penske),Ford,448,running,0,25.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+15.0,27,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,448,running,0,22.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+16.0,22,10,Ty Dillon,Grizzly Nicotine Pouches   (Matthew Kaulig),Chevrolet,448,running,0,21.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+17.0,10,9,Chase Elliott,Llumar   (Rick Hendrick),Chevrolet,447,running,0,24.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+18.0,34,35,Riley Herbst,FRE Nicotine Pouches   (23XI Racing),Toyota,447,running,0,19.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+19.0,3,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,447,running,0,23.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+20.0,9,17,Chris Buescher,Kroger / Coca-Cola   (Jack Roush),Ford,447,running,0,17.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+21.0,6,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,447,running,0,16.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+22.0,29,38,Zane Smith,Long John Silver's   (Bob Jenkins),Ford,447,running,0,15.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+23.0,12,3,Austin Dillon,Bass Pro Shops/Winchester Supreme Long Range   (Richard Childress),Chevrolet,446,running,0,14.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+24.0,16,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,446,running,0,13.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+25.0,31,4,Noah Gragson,A&W Restaurants / National Root Beer Float Da   (Bob Jenkins),Ford,446,running,0,12.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+26.0,25,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,446,running,0,11.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+27.0,13,1,Ross Chastain,Busch Light   (Trackhouse Racing),Chevrolet,446,running,0,11.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+28.0,20,41,Cole Custer,Sysco / Smoke Pit   (Gene Haas),Chevrolet,446,running,0,9.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+29.0,36,51,Cody Ware,Rocket Doctor   (Rick Ware),Chevrolet,446,running,0,8.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+30.0,5,45,Tyler Reddick,Comparion Insurance   (23XI Racing),Toyota,445,running,0,7.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+31.0,19,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,445,running,0,6.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+32.0,32,88,Connor Zilisch,WeatherTech   (Trackhouse Racing),Chevrolet,443,running,0,5.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+33.0,33,33,Austin Hill,Cheddar's Scratch Kitchen   (Richard Childress),Chevrolet,442,running,0,0.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+34.0,24,47,Ricky Stenhouse Jr,Jack Links Non Vegan Nation   (HYAK Motorsports),Chevrolet,442,running,0,3.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+35.0,37,66,Chad Finchum,Kingscrowd   (Carl Long),Ford,303,rear gear,0,0.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+36.0,28,21,Josh Berry,Motorcraft/Quick Lane   (Wood Brothers),Ford,199,crash,0,1.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+37.0,35,16,A.J. Allmendinger,Grizzly Nicotine Pouches   (Matthew Kaulig),Chevrolet,190,suspension,0,1.0,,2026_21,2026,21,,North Wilkesboro,North_Wilkesboro_Speedway,7/19/2026,
+1.0,7,67,Corey Heim,Field & Stream   (23XI Racing),Toyota,160,running,58,0.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+2.0,23,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,160,running,0,35.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+3.0,19,22,Joey Logano,Shell-Pennzoil   (Roger Penske),Ford,160,running,0,34.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+4.0,11,19,Chase Briscoe,Mobil 1   (Joe Gibbs),Toyota,160,running,1,36.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+5.0,5,11,Denny Hamlin,National Debt Relief   (Joe Gibbs),Toyota,160,running,14,44.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+6.0,16,6,Brad Keselowski,Body Guard by Fastenal   (Jack Roush),Ford,160,running,0,31.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+7.0,26,21,Josh Berry,PPG   (Wood Brothers),Ford,160,running,1,30.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+8.0,34,60,Ryan Preece,Thornton's   (Jack Roush),Ford,160,running,1,33.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+9.0,1,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,160,running,31,40.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+10.0,3,45,Tyler Reddick,XFINITY   (23XI Racing),Toyota,160,running,1,28.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+11.0,15,17,Chris Buescher,Kroger/ Minute Rice   (Jack Roush),Ford,160,running,0,28.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+12.0,4,54,Ty Gibbs,Saia Freight + Logistics   (Joe Gibbs),Toyota,160,running,46,43.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+13.0,12,41,Cole Custer,Haas / Standard Nuclear   (Gene Haas),Chevrolet,160,running,0,24.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+14.0,35,2,Austin Cindric,Discount Tire   (Roger Penske),Ford,160,running,0,23.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+15.0,30,38,Zane Smith,Losi RC Cars   (Bob Jenkins),Ford,160,running,0,22.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+16.0,25,97,Shane Van Gisbergen,Wendy's   (Trackhouse Racing),Chevrolet,160,running,0,21.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+17.0,2,7,Daniel Suarez,Freeway Insurance   (Spire Motorsports),Chevrolet,160,running,1,25.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+18.0,6,71,Michael McDowell,NEFCO   (Spire Motorsports),Chevrolet,160,running,0,30.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+19.0,8,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,160,running,0,18.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+20.0,24,47,Ricky Stenhouse Jr,Brazier Lumber Company   (HYAK Motorsports),Chevrolet,160,running,0,17.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+21.0,21,24,William Byron,Liberty University   (Rick Hendrick),Chevrolet,160,running,0,22.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+22.0,33,4,Noah Gragson,Rush Truck Centers / Cummins   (Bob Jenkins),Ford,160,running,0,15.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+23.0,22,1,Ross Chastain,Busch Light   (Trackhouse Racing),Chevrolet,160,running,5,24.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+24.0,36,34,Todd Gilliland,Grillo's Pickles   (Bob Jenkins),Ford,160,running,0,22.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+25.0,9,16,A.J. Allmendinger,Grizzly Nicotine Pouches   (Matthew Kaulig),Chevrolet,160,running,0,12.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+26.0,13,12,Ryan Blaney,MenardsDelta   (Roger Penske),Ford,160,running,0,11.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+27.0,14,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,160,running,0,12.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+28.0,29,23,Bubba Wallace,Chumba Casino   (23XI Racing),Toyota,160,running,0,9.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+29.0,20,3,Austin Dillon,BREZTRI   (Richard Childress),Chevrolet,160,running,0,8.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+30.0,28,10,Ty Dillon,BREZTRI   (Matthew Kaulig),Chevrolet,160,running,0,7.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+31.0,37,51,Cody Ware,Sky Fund Aviation   (Rick Ware),Chevrolet,160,running,0,6.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+32.0,17,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,158,running,1,5.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+33.0,32,33,Austin Hill,FICO   (Richard Childress),Chevrolet,125,crash,0,0.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+34.0,31,88,Connor Zilisch,Red Bull   (Trackhouse Racing),Chevrolet,122,crash,0,3.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+35.0,38,62,Casey Mears,The Gracie Foundation   (Beard Motorsports),Chevrolet,121,crash,0,2.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+36.0,18,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,120,crash,0,1.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+37.0,27,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,119,running,0,1.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+38.0,39,78,Daniel Dye,Champion Container Corporation   (B.J. McLeod),Chevrolet,93,crash,0,0.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+39.0,10,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,43,crash,0,1.0,,2026_22,2026,22,,Indianapolis,Indianapolis_Motor_Speedway,7/26/2026,
+1.0,6,54,Ty Gibbs,SiriusXM   (Joe Gibbs),Toyota,350,running,20,69.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+2.0,22,20,Christopher Bell,DEWALT   (Joe Gibbs),Toyota,350,running,108,50.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+3.0,1,12,Ryan Blaney,MenardsPennington   (Roger Penske),Ford,350,running,129,47.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+4.0,13,21,Josh Berry,Menards / Master Force Tools   (Wood Brothers),Ford,350,running,0,33.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+5.0,29,11,Denny Hamlin,Progressive Insurance   (Joe Gibbs),Toyota,350,running,0,37.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+6.0,20,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,350,running,0,40.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+7.0,9,1,Ross Chastain,Busch Light Farming   (Trackhouse Racing),Chevrolet,350,running,40,43.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+8.0,25,16,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Chevrolet,350,running,0,29.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+9.0,19,24,William Byron,Raptor   (Rick Hendrick),Chevrolet,350,running,0,32.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+10.0,7,3,Austin Dillon,Get Bioethanol   (Richard Childress),Chevrolet,350,running,0,33.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+11.0,8,88,Connor Zilisch,Roto-Rooter   (Trackhouse Racing),Chevrolet,349,running,0,29.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+12.0,26,23,Bubba Wallace,Hardee's   (23XI Racing),Toyota,349,running,35,25.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+13.0,27,17,Chris Buescher,Body Guard   (Jack Roush),Ford,349,running,0,24.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+14.0,3,22,Joey Logano,Shell-Pennzoil   (Roger Penske),Ford,349,running,0,41.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+15.0,32,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,349,running,18,22.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+16.0,14,38,Zane Smith,Patriot Mobile   (Bob Jenkins),Ford,349,running,0,24.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+17.0,15,4,Noah Gragson,Long John Silver's   (Bob Jenkins),Ford,349,running,0,20.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+18.0,16,47,Ricky Stenhouse Jr,NOS Energy   (HYAK Motorsports),Chevrolet,349,running,0,19.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+19.0,21,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,349,running,0,18.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+20.0,35,60,Ryan Preece,Kroger / Force Factor   (Jack Roush),Ford,349,running,0,17.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+21.0,28,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,349,running,0,16.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+22.0,17,34,Todd Gilliland,Love's Travel Stops   (Bob Jenkins),Ford,349,running,0,15.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+23.0,33,7,Daniel Suarez,Cal Ripken Sr. Foundation   (Spire Motorsports),Chevrolet,349,running,0,14.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+24.0,31,10,Ty Dillon,Sea Best   (Matthew Kaulig),Chevrolet,349,running,0,13.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+25.0,11,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,349,running,0,12.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+26.0,24,33,Austin Hill,Cheddar's Scratch Kitchen   (Richard Childress),Chevrolet,349,running,0,0.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+27.0,4,6,Brad Keselowski,Trimble   (Jack Roush),Ford,348,running,0,10.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+28.0,36,41,Cole Custer,HaasTooling.com   (Gene Haas),Chevrolet,348,running,0,9.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+29.0,12,2,Austin Cindric,Freightliner   (Roger Penske),Ford,348,running,0,8.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+30.0,23,97,Shane Van Gisbergen,Red Bull   (Trackhouse Racing),Chevrolet,347,running,0,7.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+31.0,18,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,347,running,0,6.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+32.0,34,51,Cody Ware,Costa Oil Filters   (Rick Ware),Chevrolet,347,running,0,5.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+33.0,2,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,332,running,0,12.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+34.0,30,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,194,crash,0,3.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+35.0,10,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,4,crash,0,2.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+36.0,5,45,Tyler Reddick,SupplyHouse   (23XI Racing),Toyota,3,crash,0,1.0,,2026_23,2026,23,,Iowa,Iowa_Speedway,8/9/2026,
+1.0,10,22,Joey Logano,Shell Pennzoil   (Roger Penske),Ford,400,running,95,73.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+2.0,2,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,400,running,171,52.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+3.0,23,2,Austin Cindric,Menards Quaker State   (Roger Penske),Ford,400,running,0,48.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+4.0,14,11,Denny Hamlin,Bob's Discount Furniture   (Joe Gibbs),Toyota,400,running,3,46.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+5.0,13,9,Chase Elliott,UniFirst   (Rick Hendrick),Chevrolet,400,running,0,38.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+6.0,30,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,400,running,2,31.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+7.0,8,20,Christopher Bell,DEWALT   (Joe Gibbs),Toyota,400,running,29,36.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+8.0,3,21,Josh Berry,Motorcraft/Quick Lane   (Wood Brothers),Ford,400,running,1,40.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+9.0,5,24,William Byron,Cincinnati   (Rick Hendrick),Chevrolet,400,running,0,30.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+10.0,25,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,400,running,0,27.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+11.0,32,45,Tyler Reddick,Pinnacle   (23XI Racing),Toyota,400,running,7,28.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+12.0,18,1,Ross Chastain,Jockey 150th Anniversary   (Trackhouse Racing),Chevrolet,399,running,0,25.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+13.0,1,12,Ryan Blaney,BodyArmor Flash I.V.   (Roger Penske),Ford,399,running,88,41.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+14.0,31,97,Shane Van Gisbergen,Mitti   (Trackhouse Racing),Chevrolet,399,running,0,23.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+15.0,4,54,Ty Gibbs,Victory Junction/Cookout   (Joe Gibbs),Toyota,399,running,1,22.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+16.0,20,7,Daniel Suarez,UHP.com   (Spire Motorsports),Chevrolet,399,running,0,21.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+17.0,6,60,Ryan Preece,Castrol   (Jack Roush),Ford,398,running,0,20.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+18.0,35,4,Noah Gragson,Long John Silver's   (Bob Jenkins),Ford,398,running,0,19.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+19.0,16,3,Austin Dillon,Bass Pro Shops/Winchester Supreme Long Range   (Richard Childress),Chevrolet,398,running,0,18.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+20.0,7,23,Bubba Wallace,XFINITY   (23XI Racing),Toyota,398,running,3,22.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+21.0,19,17,Chris Buescher,Kroger / Grab Kleenex   (Jack Roush),Ford,398,running,0,16.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+22.0,12,42,John H. Nemechek,Rexel   (Legacy Motor Club),Toyota,398,running,0,15.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+23.0,33,33,Austin Hill,Morgan & Morgan   (Richard Childress),Chevrolet,397,running,0,0.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+24.0,17,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,397,running,0,13.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+25.0,11,88,Connor Zilisch,WeatherTech   (Trackhouse Racing),Chevrolet,397,running,0,12.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+26.0,9,6,Brad Keselowski,BuildSubmarines.com   (Jack Roush),Ford,397,running,0,11.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+27.0,21,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,396,running,0,10.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+28.0,26,71,Michael McDowell,Workforce   (Spire Motorsports),Chevrolet,396,running,0,9.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+29.0,29,41,Cole Custer,HaasTooling.com   (Gene Haas),Chevrolet,396,running,0,8.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+30.0,27,34,Todd Gilliland,Love's Travel Stops   (Bob Jenkins),Ford,396,running,0,7.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+31.0,28,47,Ricky Stenhouse Jr,Brazier Lumber Company   (HYAK Motorsports),Chevrolet,396,running,0,6.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+32.0,34,10,Ty Dillon,Beaver Street Fisheries   (Matthew Kaulig),Chevrolet,394,running,0,5.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+33.0,15,16,A.J. Allmendinger,BLACKS TIRE / Down East Heat & Air   (Matthew Kaulig),Chevrolet,394,running,0,4.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+34.0,37,51,Cody Ware,Rocket Doctor   (Rick Ware),Chevrolet,392,running,0,3.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+35.0,36,66,Josh Bilicki,Carl Long,Ford,391,running,0,0.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+36.0,24,38,Zane Smith,Aaron's Rent to Own   (Bob Jenkins),Ford,366,running,0,1.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+37.0,22,77,Carson Hocevar,Zeigler Auto Group   (Spire Motorsports),Chevrolet,279,engine,0,1.0,,2026_24,2026,24,,Richmond,Richmond_Raceway,8/15/2026,
+1.0,8,12,Ryan Blaney,Menards Dutch Boy   (Roger Penske),Ford,301,running,115,70.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+2.0,23,23,Bubba Wallace,Cincoro Tequila   (23XI Racing),Toyota,301,running,22,43.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+3.0,2,21,Josh Berry,Motorcraft/Quick Lane   (Wood Brothers),Ford,301,running,73,49.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+4.0,6,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,301,running,0,43.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+5.0,9,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,301,running,18,48.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+6.0,7,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,301,running,0,38.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+7.0,4,11,Denny Hamlin,National Debt Relief   (Joe Gibbs),Toyota,301,running,0,32.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+8.0,1,45,Tyler Reddick,Chumba Casino   (23XI Racing),Toyota,301,running,0,29.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+9.0,18,60,Ryan Preece,"Mohawk Northeast, Inc.   (Jack Roush)",Ford,301,running,17,38.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+10.0,19,4,Noah Gragson,MillerTech Batteries   (Bob Jenkins),Ford,301,running,0,27.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+11.0,25,6,Brad Keselowski,BuildSubmarines.com   (Jack Roush),Ford,301,running,0,31.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+12.0,26,2,Austin Cindric,Snap On   (Roger Penske),Ford,301,running,0,25.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+13.0,14,38,Zane Smith,imagine360   (Bob Jenkins),Ford,301,running,0,24.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+14.0,21,22,Joey Logano,Shell Pennzoil   (Roger Penske),Ford,301,running,0,23.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+15.0,10,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,301,running,0,22.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+16.0,15,71,Michael McDowell,Delaware Life   (Spire Motorsports),Chevrolet,301,running,0,21.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+17.0,35,7,Daniel Suarez,Cal Ripken Sr. Foundation   (Spire Motorsports),Chevrolet,301,running,0,20.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+18.0,16,17,Chris Buescher,Trimble   (Jack Roush),Ford,301,running,0,23.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+19.0,22,77,Carson Hocevar,Modo Casino   (Spire Motorsports),Chevrolet,300,running,0,27.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+20.0,5,97,Shane Van Gisbergen,SuperFile   (Trackhouse Racing),Chevrolet,300,running,30,19.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+21.0,13,34,Todd Gilliland,Nucar   (Bob Jenkins),Ford,300,running,0,16.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+22.0,32,41,Cole Custer,HaasTooling.com   (Gene Haas),Chevrolet,300,running,0,15.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+23.0,24,16,A.J. Allmendinger,Campers Inn RV   (Matthew Kaulig),Chevrolet,300,running,0,14.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+24.0,28,33,Austin Hill,zone Sweet Coffee   (Richard Childress),Chevrolet,300,running,0,0.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+25.0,29,9,Chase Elliott,NAPA Auto Parts   (Rick Hendrick),Chevrolet,300,running,0,12.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+26.0,17,19,Chase Briscoe,Zep   (Joe Gibbs),Toyota,300,running,0,12.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+27.0,33,10,Ty Dillon,Campers Inn RV   (Matthew Kaulig),Chevrolet,300,running,0,10.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+28.0,30,47,Ricky Stenhouse Jr,Pylon Aviation   (HYAK Motorsports),Chevrolet,300,running,0,9.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+29.0,36,51,Cody Ware,Schluter Systems   (Rick Ware),Chevrolet,300,running,0,8.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+30.0,3,24,William Byron,Raptor   (Rick Hendrick),Chevrolet,296,running,26,14.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+31.0,31,40,John H. Nemechek,Dollar Tree   (JR Motorsports),Toyota,296,running,0,6.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+32.0,34,3,Austin Dillon,BREZTRI   (Richard Childress),Chevrolet,282,running,0,5.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+33.0,11,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,251,transaxle,0,4.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+34.0,27,35,Riley Herbst,Monster Energy   (23XI Racing),Toyota,222,crash,0,3.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+35.0,20,88,Connor Zilisch,SuperFile   (Trackhouse Racing),Chevrolet,222,crash,0,2.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+36.0,12,1,Ross Chastain,Kubota   (Trackhouse Racing),Chevrolet,41,engine,0,1.0,,2026_25,2026,25,,Loudon,New_Hampshire_Motor_Speedway,8/23/2026,
+1.0,4,60,Ryan Preece,Kroger / OIKOS   (Jack Roush),Ford,166,running,5,67.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+2.0,23,7,Daniel Suarez,Coke Zero Sugar   (Spire Motorsports),Chevrolet,166,running,0,38.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+3.0,17,45,Tyler Reddick,Jordan Brand   (23XI Racing),Toyota,166,running,5,34.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+4.0,18,71,Michael McDowell,Fly Alliance   (Spire Motorsports),Chevrolet,166,running,0,33.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+5.0,32,47,Ricky Stenhouse Jr,Onin Staffing   (HYAK Motorsports),Chevrolet,166,running,1,32.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+6.0,8,2,Austin Cindric,Menards Maytag   (Roger Penske),Ford,166,running,6,32.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+7.0,29,3,Austin Dillon,Bass Pro Shops/Winchester Deer Season XP   (Richard Childress),Chevrolet,166,running,0,30.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+8.0,20,48,Alex Bowman,Ally   (Rick Hendrick),Chevrolet,166,running,0,29.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+9.0,24,21,Josh Berry,eero   (Wood Brothers),Ford,166,running,1,28.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+10.0,16,41,Cole Custer,Standard Nuclear   (Gene Haas),Chevrolet,166,running,0,27.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+11.0,30,11,Denny Hamlin,Progressive Insurance   (Joe Gibbs),Toyota,166,running,0,26.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+12.0,5,35,Harrison Burton,Tree Top   (23XI Racing),Toyota,166,running,0,0.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+13.0,12,19,Chase Briscoe,Bass Pro Shops   (Joe Gibbs),Toyota,166,running,10,34.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+14.0,21,6,Brad Keselowski,Consumer Cellular   (Jack Roush),Ford,166,running,10,23.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+15.0,27,42,John H. Nemechek,Pye-Barker Fire & Safety   (Legacy Motor Club),Toyota,166,running,2,24.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+16.0,11,67,Corey Heim,Celsius   (23XI Racing),Toyota,166,running,0,0.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+17.0,35,20,Christopher Bell,Rheem   (Joe Gibbs),Toyota,166,running,0,20.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+18.0,9,22,Joey Logano,AutoTrader   (Roger Penske),Ford,166,running,2,27.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+19.0,33,34,Todd Gilliland,Grillo's Pickles   (Bob Jenkins),Ford,166,running,8,24.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+20.0,26,23,Bubba Wallace,Columbia PFG   (23XI Racing),Toyota,166,running,0,21.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+21.0,31,10,Ty Dillon,Beaver Street Fisheries   (Matthew Kaulig),Chevrolet,166,running,0,16.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+22.0,13,24,William Byron,Raptor   (Rick Hendrick),Chevrolet,166,running,14,22.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+23.0,22,9,Chase Elliott,NAPA Batteries   (Rick Hendrick),Chevrolet,166,running,19,16.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+24.0,1,1,Ross Chastain,Wendy's Watermelon Lemonade   (Trackhouse Racing),Chevrolet,166,running,12,13.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+25.0,7,88,Connor Zilisch,WeatherTech   (Trackhouse Racing),Chevrolet,166,running,0,12.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+26.0,37,4,Noah Gragson,Rush Truck Centers   (Bob Jenkins),Ford,166,running,0,12.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+27.0,3,33,Austin Hill,Cheddar's Scratch Kitchen   (Richard Childress),Chevrolet,166,running,27,0.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+28.0,6,97,Shane Van Gisbergen,Red Bull   (Trackhouse Racing),Chevrolet,166,running,6,19.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+29.0,39,78,Daniel Dye,Champion Container   (B.J. McLeod),Chevrolet,166,running,0,0.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+30.0,36,16,A.J. Allmendinger,Grizzly Nicotine Pouches   (Matthew Kaulig),Chevrolet,166,running,0,7.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+31.0,10,5,Kyle Larson,HendrickCars.com   (Rick Hendrick),Chevrolet,166,running,2,16.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+32.0,34,38,Zane Smith,Aaron's Dream Machine   (Bob Jenkins),Ford,165,crash,15,13.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+33.0,19,12,Ryan Blaney,Advance Auto Parts   (Roger Penske),Ford,165,crash,5,14.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+34.0,14,54,Ty Gibbs,Monster Energy   (Joe Gibbs),Toyota,165,crash,1,12.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+35.0,25,51,Cody Ware,Super.com   (Rick Ware),Chevrolet,165,crash,8,2.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+36.0,40,44,Joey Gase,NFPA,Chevrolet,165,running,0,0.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+37.0,38,62,Casey Mears,The Gracie Foundation   (Beard Motorsports),Chevrolet,165,running,0,1.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+38.0,28,77,Carson Hocevar,"Miner Docks, Doors and More   (Spire Motorsports)",Chevrolet,154,crash,1,1.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+39.0,15,43,Erik Jones,Dollar Tree   (Legacy Motor Club),Toyota,154,crash,0,8.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
+40.0,2,17,Chris Buescher,Fifth Third Bank   (Jack Roush),Ford,151,running,6,1.0,,2026_26,2026,26,,Daytona,Daytona_International_Speedway,8/30/2026,
